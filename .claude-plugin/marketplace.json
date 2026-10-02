@@ -1,0 +1,25 @@
+{
+  "name": "milkoya",
+  "description": "Cozy little mods for Claude Code by Mio",
+  "owner": {
+    "name": "Mio"
+  },
+  "plugins": [
+    {
+      "name": "garden-claude",
+      "source": {
+        "source": "github",
+        "repo": "milkoya/garden-claude"
+      },
+      "description": "A pixel-art Claude tends a flower garden above your prompt while you work"
+    },
+    {
+      "name": "usage-tracking",
+      "source": {
+        "source": "github",
+        "repo": "milkoya/usage-tracking"
+      },
+      "description": "A side panel with your Claude Code cost and token usage: daily and weekly charts from your local logs"
+    }
+  ]
+}
