@@ -20,6 +20,14 @@
         "repo": "milkoya/usage-tracking"
       },
       "description": "A side panel with your Claude Code cost and token usage: daily and weekly charts from your local logs"
+    },
+    {
+      "name": "tidy-edits",
+      "source": {
+        "source": "github",
+        "repo": "milkoya/tidy-edits"
+      },
+      "description": "Short cards for every file Claude edits instead of long line diffs, with each file's diff a click away"
     }
   ]
 }
